@@ -12,7 +12,7 @@ START_LAT,
 START_LNG,
 END_LAT,
 END_LNG,
-MEMBER_CSUAL
+MEMBER_CASUAL
 
 from {{ source('demo', 'bike') }}
 
